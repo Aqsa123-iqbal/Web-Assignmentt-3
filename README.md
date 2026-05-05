@@ -1,6 +1,6 @@
 # Web Assignment 3
 
-## Screenshots
+## Screenshots of Outputs
 
 <p align="center">
   <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/1.JPG?raw=true" width="400"/>
