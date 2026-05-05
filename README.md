@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/1.JPG?raw=true" width="400"/>
       <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/2.JPG?raw=true" width="400"/>
-    <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/2.JPG?raw=true" width="400"/>
     <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/3.JPG?raw=true" width="400"/>
     <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/4.JPG?raw=true" width="400"/>
     <img src="https://github.com/Aqsa123-iqbal/Web-Assignmentt-3/blob/main/5.JPG?raw=true" width="400"/>
